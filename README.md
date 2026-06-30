@@ -1,6 +1,6 @@
 # 🏥 Unified AI Medical Sound Screener
 
-**Research Prototype | Biomedical Engineering, USTTB**
+**Research Prototype**
 
 A unified, offline, AI-powered diagnostic device for low-resource settings. This single application integrates two independent screening modes:
 
