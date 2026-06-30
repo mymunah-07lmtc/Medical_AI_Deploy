@@ -1,0 +1,17 @@
+# Temporary audio files
+temp_upload.wav
+temp_recording.tmp
+temp_audio.wav
+*.png
+*.tmp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Logs
+logs.txt
